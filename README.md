@@ -1,7 +1,7 @@
 §1 Postanowienia ogólne
 
 - Nieprzestrzeganie regulaminu serwera wiąże się z ukaraniem przez administracje
-- 
+
 - Administracja zastrzega sobie prawo do zmieniania treści regulaminu
  
 §2 Zasady kanałów tekstowych
